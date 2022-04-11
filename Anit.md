@@ -5,3 +5,4 @@ VirtualUser:ClickButton2(Vector2.new())
 end)
 
 warn("Anti-Afk has Loaded")
+warn("Tysm For Use Script")
